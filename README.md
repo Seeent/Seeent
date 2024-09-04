@@ -9,7 +9,7 @@
         <div class="row">
             <div class="col">
                 <h1> Bienvenido a mi GitHub </h1>
-                <p>Actualmente vivo en Valencia, pero no me importaría vivir en otro lugar. Me encantaría experimentar nuevas vivencias y seguir aprendiendo como lo he estado haciendo hasta ahora. Me inicié en el desarrollo web en 4Geeks Academy, donde completé mi formación con éxito. Ahora estoy sumergido en varios proyectos que podréis ver en un tiempo. Siempre estoy en busca de nuevos desafíos. Me fascina todo lo que se puede hacer con la inteligencia artificial.</p>
+                <p>Actualmente vivo en Valencia. Me encantaría experimentar nuevas vivencias y seguir aprendiendo como lo he estado haciendo hasta ahora. Me inicié en el desarrollo web en 4Geeks Academy, donde completé mi formación con éxito. Ahora estoy sumergido en varios proyectos que podréis ver en un tiempo. Siempre estoy en busca de nuevos desafíos. Me fascina todo lo que se puede hacer con la inteligencia artificial.</p>
             </div>
         </div>
     </div>
